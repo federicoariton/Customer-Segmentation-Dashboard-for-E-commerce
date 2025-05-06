@@ -55,13 +55,18 @@ This project applies clustering techniques to an e-commerce dataset to segment c
 
 ## 📈 Results
 
-The notebook produces:
+The customer segmentation yielded four meaningful clusters:
 
-- Visual diagnostics of customer clusters  
-- Behavioral summaries of each segment (e.g., high-value vs. low-value customers)  
-- Marketing strategy suggestions tailored to each segment  
+- **At-Risk / Churned** – 1,590 customers  
+- **Loyal Mid-Spenders** – 1,183 customers  
+- **Recent Low Spenders** – 859 customers  
+- **VIP Customers** – 701 customers
 
----
+## Insights:
+
+- A significant portion of customers are at risk of churning — ideal targets for re-engagement strategies.
+- *VIP Customers* represent a smaller but highly valuable group — perfect for retention campaigns.
+- *Loyal Mid-Spenders* are stable and could be nudged toward higher value through targeted offers.
 
 ## 🏁 How to Run
 
